@@ -1,3 +1,5 @@
+# Forked Repository
+This repository is a fork of the fantastic suite of Rmarkdown templates kindly published by Steve Miller which I will be tweaking to meet my own needs. I highly reccomend checking out the original package (see below). 
 
 # Steve’s R Markdown Templates
 
